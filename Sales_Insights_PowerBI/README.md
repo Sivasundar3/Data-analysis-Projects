@@ -37,12 +37,12 @@ visual representation to make data driven decisions. So, he hired a team of data
 #### Initial Dashboard
 
 ---
-<img src="https://github.com/Sivasundar3/AtliQ_Hardware_sales_Insights_PowerBi/blob/main/DATASET/Initial%20Dashboard.png" width="550" class="center">
+<img src="https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Sales_Insights_PowerBI/Initial%20Dashboard.png" width="550" class="center">
 
 #### Updated Dashboard
 
 ---
-<img src="https://github.com/Sivasundar3/AtliQ_Hardware_sales_Insights_PowerBi/blob/main/DATASET/Updated%20Dashboard.png" width="550" class="center">
+<img src="https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Sales_Insights_PowerBI/Updated%20Dashboard.png" width="550" class="center">
 
 
 
