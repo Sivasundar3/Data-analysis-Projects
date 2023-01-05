@@ -8,7 +8,7 @@ Skills used: Joins, CTE's, Windows Functions, Aggregate Functions, Creating View
 
 
 
--- Get all the sales transaction data from fact_sales_monthly table for that customer(croma: 90002002) in the fiscal_year 2021
+-- Get all the sales transaction data from fact_sales_monthly table for that customer_code(90002002) in the fiscal_year 2021
 
 	SELECT * FROM fact_sales_monthly 
 	WHERE 
