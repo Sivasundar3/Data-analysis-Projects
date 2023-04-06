@@ -6,7 +6,7 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 I worked on this project by following the Codebasics PowerBi Course, Link to the course is [here](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project)
 
-[Live Report Link](https://www.novypro.com/project/atliq-hardware-business-insights-360)
+[Live Report Link](https://www.novypro.com/project/business360)
 
 ## Tech stacks
 
@@ -36,7 +36,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Setting up personal gateway to set up the auto refresh of data
 - PowerBi App creation
 - Collaboration, workspace, access permissions in PowerBi services
-- And more 😅
+
 
 ## GitHub 
 
@@ -60,7 +60,7 @@ I worked on this project by following the Codebasics PowerBi Course, Link to the
 - Distributors
 - Consumer
 
-## Company’s back ground
+## Company’s background
 
 AltiQ hardware is a company which has grown vastly in the recent years, and opened business all over the globe. It is a company which sells, computer and computer accessories through three mediums/channel
 
@@ -153,14 +153,7 @@ Fact table : It will have the data about the transactions
 
 - As the database is MySQL in this project, we need to import the datasets from Mysql database to PowerBi by providing the Database access credential
 
-## Data Model
 
-- Data modeling plays a vital role and is considered as the basement of report. All the visuals will be build upon the data model.
-- Poor data modeling affects the over all performance of the report.
-- Following Good practices of data modeling is must. Refer this page to get to know the good practices [Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
-- In this project, we have followed Snowfall data modeling method.
-
-<img src="https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png" class="center">
 
 ### Dashboard designing
 
@@ -181,34 +174,31 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Overall Report
 
-![Overall Report.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Overall.gif)
-
-## Info Page
-
-![Info.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Info.gif)
+![Overall Report.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Overall%20Report.gif)
 
 ## Finance View
 
-![Finace.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Finance%20view.gif)
+
 ## Sales View
 
-![Sales.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Sales%20View.gif)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Marketing%20view.gif)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain View.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Supply%20chain%20View.gif)
 
 ## Executive View
 
-![Executive.gif](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Executive%20view.gif)
 
-## Products
+## Stakeholder Request
 
-![Products](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Products%20View.gif)
+![Stakeholder Request](https://github.com/Sivasundar3/Data-analysis-projects/blob/master/Business%20Insights%20360%20_%20Power%20BI/Resources/Stakeholder%20Request.gif)
 
 you can find the full report file here : [Report](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
 
