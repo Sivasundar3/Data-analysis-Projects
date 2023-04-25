@@ -2,7 +2,7 @@
 
 
 
-[Live Report Link](https://www.novypro.com/project/g)
+[Live Report Link](https://www.novypro.com/project/atliq-hardware-sales-insights)
 
 ## Problem statement
 
